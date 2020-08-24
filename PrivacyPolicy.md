@@ -25,4 +25,3 @@ After authorization using a secret bot-token, the application will have full acc
 #### Contact
 If you have any questions or complaints about this privacy policy, please contact me by mail: [Contact](mailto:lnikshev@gmail.com?subject=[Discord%20Embeder]%20Privacy%20Policy)
 
-> P.S. Available in the latest version of the application (older than 2.0.9.0 not including this version).
